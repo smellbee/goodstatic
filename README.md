@@ -1,0 +1,2 @@
+# goodstatic
+very good static
